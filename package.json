@@ -1,6 +1,6 @@
 {
-  "name": "ts-package-template",
-  "version": "1.0.4",
+  "name": "@nikola-hua/common",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huahaofeng/ts-package-template.git"
+    "url": "git+https://github.com/huahaofeng/common.git"
   },
   "keywords": [
     "typescript",
@@ -36,9 +36,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/huahaofeng/ts-package-template/issues"
+    "url": "https://github.com/huahaofeng/common/issues"
   },
-  "homepage": "https://github.com/huahaofeng/ts-package-template#readme",
+  "homepage": "https://github.com/huahaofeng/common#readme",
   "devDependencies": {
     "@types/jest": "25.1.4",
     "@types/node": "^13.9.1",
