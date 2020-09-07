@@ -39,6 +39,9 @@
     "url": "https://github.com/huahaofeng/common/issues"
   },
   "homepage": "https://github.com/huahaofeng/common#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
   "devDependencies": {
     "@types/jest": "25.1.4",
     "@types/node": "^13.9.1",
@@ -58,7 +61,6 @@
     "typescript": "^3.7.4",
     "rimraf": "^3.0.2"
   },
-  "dependencies": {},
   "files": [
     "dist/**/*"
   ]
