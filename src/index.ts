@@ -1,3 +1,3 @@
 export * from './lib/decorators';
-export * from './lib/utils/sleep.util';
+export * from './lib/utils';
 export * from './lib/cache';

@@ -1,5 +1,1 @@
-export function sleep(time: number = 2000) {
-    return new Promise(resolve => {
-        setTimeout(() => resolve(), time);
-    });
-}
+export const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
